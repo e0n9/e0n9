@@ -1,5 +1,5 @@
 # Hello 👋🏼 I'm Ernest
-<a href="https://https://www.linkedin.com/in/ernest-ong-32411920a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ernest-ong-32411920a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A cybersecurity enthusiast, developing skills one packet at a time.
 
