@@ -7,7 +7,6 @@ A cybersecurity enthusiast, developing skills one packet at a time.
 I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. With these skills and knowledge, I am looking to transition into a SOC/DFIR related role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### OSINT
 <div>
