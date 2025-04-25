@@ -4,7 +4,7 @@
 A cybersecurity enthusiast, developing skills one packet at a time.
 
 ## Objective
-I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. I'm looking to consistent add some projects/labs here to continue building my skills. 
+I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. I aim to consistently add projects/labs here to continue building my skills. 
 
 ## Skills
 
