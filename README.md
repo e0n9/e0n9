@@ -4,7 +4,7 @@
 A cybersecurity enthusiast, developing skills one packet at a time.
 
 ## Objective
-I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. With these skills and knowledge, I am looking to transition into a SOC/DFIR related role.
+I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. I'm looking to consistent add some projects/labs here to continue building my skills. 
 
 ## Skills
 
