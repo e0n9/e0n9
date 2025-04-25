@@ -10,12 +10,8 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
+|                                               |                            |
 
 ## Tools
 
@@ -51,4 +47,4 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 </div>
 
 ## Projects
-- 
+- <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a>
