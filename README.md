@@ -1,7 +1,7 @@
 # Hello 👋🏼 I'm Ernest
 <a href="https://www.linkedin.com/in/ernest-ong-32411920a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A cybersecurity enthusiast, developing skills one packet at a time.
+Tech support by day, cybersecurity student by night, developing skills one packet at a time.
 
 ## Objective
 I joined the tech industry in 2023, and this rewarding journey has led to me develop a strong passion in cybersecurity. I aim to consistently add projects/labs here to continue building my skills. 
@@ -11,7 +11,8 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
-|                                               |                            |
+| Bash Scripting                                | <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>      |
+| OSINT with Shodan & WHOIS                     | <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan-WHOIS-Lab</a>       |
 
 ## Tools
 
@@ -39,3 +40,5 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 ## Projects
 - <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a>
+- <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>
+- <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan-WHOIS-Lab</a>
