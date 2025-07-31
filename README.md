@@ -8,7 +8,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project/Lab         |
 |-----------------------------------------------|----------------------------|
 | Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
 | Bash Scripting                                | <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>      |
@@ -38,7 +38,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 <img src="https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" />    
 </div>
 
-## Projects
+## Projects/Labs
 - <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a>
 - <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>
 - <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan-WHOIS-Lab</a>
