@@ -13,6 +13,10 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 | Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
 | Bash Scripting                                | <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>      |
 | OSINT with Shodan & WHOIS                     | <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan-WHOIS-Lab</a>       |
+| Common Vulnerabilities and Exposures          | <a href="https://github.com/e0n9/PenTest_Lab_1">PenTest_Lab_1</a>             |
+| Network Mapper                                | <a href="https://github.com/e0n9/PenTest_Lab_1">PenTest_Lab_1</a>             |
+| Metasploit                                    | <a href="https://github.com/e0n9/PenTest_Lab_1">PenTest_Lab_1</a>             |
+
 
 ## Tools
 
@@ -31,6 +35,11 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
     <img src="https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -42,3 +51,4 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 - <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a>
 - <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>
 - <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan-WHOIS-Lab</a>
+- <a href="https://github.com/e0n9/PenTest_Lab_1">PenTest_Lab_1</a>
