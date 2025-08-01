@@ -18,7 +18,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 ### OSINT
 <div>
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-000000?style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-cve.org-000000?style=for-the-badge&logo=MITRE&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=Shodan&logoColor=white" />
     <img src="https://img.shields.io/badge/-Whois-blue?style=for-the-badge&logo=Whois&logoColor=white" />
     
