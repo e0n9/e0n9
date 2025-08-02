@@ -12,7 +12,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 |-----------------------------------------------|----------------------------|
 | Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
 | Bash Scripting                                | <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>      |
-| OSINT with Shodan & WHOIS                     | <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan WHOIS Lab</a>       |
+| OSINT with Shodan & Whois Lookup              | <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan WHOIS Lab</a>       |
 | Python Scripting                              | <a href="https://github.com/e0n9/Python-File-Encryption-and-Decryption-Tool">Python File Encryption and Decryption Tool</a>            |
 | Common Vulnerabilities and Exposures          | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
 | Network Scanning                              | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
@@ -22,22 +22,20 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 ### OSINT
 <div>
-    <img src="https://img.shields.io/badge/-cve.org-000000?style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CVE.org-cc0000?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=Shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Whois-blue?style=for-the-badge&logo=Whois&logoColor=white" />
-    
-    
+    <img src="https://img.shields.io/badge/-DomainTools-004C99?style=for-the-badge&logoColor=white" />    
 <div/>
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-5096C8?style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ## Certifications
