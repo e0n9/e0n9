@@ -41,7 +41,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-65A637?style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
