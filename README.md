@@ -17,7 +17,7 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 | Common Vulnerabilities and Exposures          | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
 | Network Scanning                              | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
 | Penetrating Testing                           | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
-| SIEM Implemantion and Log Analysis            | <a href="https://github.com/e0n9/https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a> |
+| SIEM Implemantion and Log Analysis            | <a href="https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a> |
 
 ## Tools
 
@@ -57,4 +57,4 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 - <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan WHOIS Lab</a>
 - <a href="https://github.com/e0n9/Python-File-Encryption-and-Decryption-Tool">Python File Encryption and Decryption Tool</a>
 - <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>
-- <a href="https://github.com/e0n9/https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a>
+- <a href="https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a>
