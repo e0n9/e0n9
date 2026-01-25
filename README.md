@@ -13,10 +13,11 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 | Network Analysis                              | <a href="https://github.com/e0n9/Wireshark-Challenge">Wireshark Challenge</a> |
 | Bash Scripting                                | <a href="https://github.com/e0n9/SystemInfoScript">SystemInfo Script</a>      |
 | OSINT with Shodan & Whois Lookup              | <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan WHOIS Lab</a>       |
-| Python Scripting                              | <a href="https://github.com/e0n9/Python-File-Encryption-and-Decryption-Tool">Python File Encryption and Decryption Tool</a>            |
+| Python Scripting                              | <a href="https://github.com/e0n9/Python-File-Encryption-and-Decryption-Tool">Python File Encryption and Decryption Tool</a> |
 | Common Vulnerabilities and Exposures          | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
 | Network Scanning                              | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
 | Penetrating Testing                           | <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>             |
+| SIEM Implemantion and Log Analysis            | <a href="https://github.com/e0n9/https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a> |
 
 ## Tools
 
@@ -38,6 +39,11 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
     <img src="https://img.shields.io/badge/-Metasploit-5096C8?style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -51,3 +57,4 @@ I joined the tech industry in 2023, and this rewarding journey has led to me dev
 - <a href="https://github.com/e0n9/Shodan-WHOIS-Lab">Shodan WHOIS Lab</a>
 - <a href="https://github.com/e0n9/Python-File-Encryption-and-Decryption-Tool">Python File Encryption and Decryption Tool</a>
 - <a href="https://github.com/e0n9/PenTest-Lab-1">PenTest Lab 1</a>
+- <a href="https://github.com/e0n9/https://github.com/e0n9/SOC-Detection-Lab">SOC Detection Lab</a>
